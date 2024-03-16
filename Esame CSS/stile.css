@@ -1,0 +1,182 @@
+html {font-size: 62.5%;}
+
+body { 
+    background-image: url("sfondo.png");
+    font-family: Arial, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.6;
+}
+hr {display: none;} /* rimuove l'elemento */
+
+
+ a{ color: white;
+}
+/* HEADER */
+header {
+    background-color: #088db5;
+    background-image: linear-gradient(hsl(204, 95%, 23%), hsl(200, 90%, 28%));
+    font-family: Raleway;
+    text-align: center;
+    color: white;
+    border-bottom: 1px solid #027794;
+    margin-bottom: 1.5em;
+    padding: 1.5em;
+    margin: 1em;
+    box-shadow: 0px 2px 8px 2px rgba(0, 0, 0, 0.5);
+}
+
+nav a {
+    color: white;
+}
+main {
+    background-color: #f3f3f3;
+    font-family: Raleway;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    margin-bottom: 1.5em;
+    padding: 1.5em;
+    margin: 1em;
+    box-shadow: 2px 0px 0px 0.5px rgba(0, 0, 0, 0.5), -2px 0px 0px 0.5px rgba(0, 0, 0, 0.5);
+}
+
+h1 { font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 7vh;
+   
+}
+
+
+article p strong {
+    color: rgb(194, 7, 116);
+}
+
+CODE {
+    background-color: #d4d0d0;
+    border-radius: 0.3em;
+    border-bottom: 1px solid #000000;
+}
+
+thead{
+    text-align: center;
+    font-family: Raleway;
+    background-color: #00A0C6;
+    background-image: linear-gradient(hsl(216, 90%, 51%), hsl(216, 86%, 38%));
+    color: white;
+    width: 300px;
+    height: 50px;
+}
+
+div table{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    vertical-align: middle;
+    border-bottom: 0.2em  solid #00A0C6;
+}
+
+th{ 
+ border: 0.5px solid #ffffff;  
+ width: 300px
+
+}
+
+table caption{
+    font-style: italic;
+    font-size: medium;
+}
+
+ a {
+    color: #027794;
+}
+
+iframe{
+    border-radius: 1em;
+    height: auto;
+}
+
+ section {
+    background-color: #d4d0d0;
+    font-family: Raleway;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    border-bottom: 1px solid #636363;
+    margin-bottom: 1.5em;
+    padding: 1.5em;
+}
+
+form button{
+    background-color: #077bff;
+    color: white;
+}
+
+form input{
+    border-bottom-style: dotted;
+    border-bottom-color: #757575;
+    
+}
+
+section h2 {
+    background-color: #d4d0d0;
+    color: #000000;
+    position: absolute;
+    margin-top: -30px;
+    border-bottom: 1px solid #636363;
+    box-shadow: 1px 1px 1px 1px rgba(65,65,65, 0.5), -1px -1px 1px 1px rgba(65, 65, 65, 0.5);
+    width: 70px;
+    background-position: center;
+    text-align: center;
+
+}
+
+aside h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+aside div {
+    background-color: #d4d0d0;
+    font-family: Raleway;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    border-bottom: 1px solid #636363;
+    margin-bottom: 1.5em;
+    padding: 1.5em;
+}
+
+.data {
+    text-align: right;
+    
+}
+
+.nome {
+    color: gray;
+}
+
+/* FOOTER */
+footer{
+    
+    background-color: #088db5;
+    background-image: linear-gradient(hsl(177, 94%, 26%), hsl(189, 100%, 14%));
+    font-family: Raleway;
+    text-align: center;
+    color: white;
+    border-bottom: 1px solid #000000;
+    margin-bottom: 1.5em;
+    padding: 1.5em;
+    box-shadow: 0px 2px 8px 2px rgba(0, 0, 0, 0.5);
+}
+
+footer a {
+    color: blueviolet;
+}
+/* MAIN */
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+
